@@ -1,0 +1,62 @@
+ESTUDOS DE CASO FICTÍCIOS DE ANÁLISE DE SINISTROS
+
+Documento fictício para fins educacionais. Os casos não representam pessoas ou empresas reais.
+
+CASO 1 — DIVERGÊNCIA NA DATA DO EVENTO
+
+Situação:
+O segurado informa que o acidente ocorreu em 12 de maio. Entretanto, um documento apresentado contém uma data diferente.
+
+Análise recomendada:
+Conferir os documentos originais, verificar a origem da divergência e solicitar esclarecimentos ao segurado, se necessário.
+
+Conclusão:
+A diferença entre as datas exige verificação. Sem evidências adicionais, não é possível concluir que houve fraude.
+
+CASO 2 — DOCUMENTAÇÃO INCOMPLETA
+
+Situação:
+Um pedido de indenização foi recebido sem todos os comprovantes necessários para concluir a avaliação.
+
+Análise recomendada:
+Identificar quais documentos faltam, verificar os requisitos aplicáveis e solicitar os itens necessários, registrando a comunicação.
+
+Conclusão:
+A documentação incompleta impede uma avaliação integral naquele momento, mas não comprova fraude.
+
+CASO 3 — DIFERENÇA ENTRE ORÇAMENTOS
+
+Situação:
+Dois orçamentos de reparo apresentam valores diferentes para um mesmo veículo.
+
+Análise recomendada:
+Comparar peças, mão de obra, serviços incluídos, quantidades e condições dos orçamentos. Solicitar esclarecimentos quando necessário.
+
+Conclusão:
+A diferença de valores deve ser explicada antes de qualquer conclusão. Os orçamentos podem divergir por razões legítimas.
+
+CASO 4 — SINISTROS RECORRENTES
+
+Situação:
+O histórico indica vários avisos de sinistro em um intervalo relativamente curto.
+
+Análise recomendada:
+Verificar cada evento individualmente, conferir as coberturas e examinar as evidências disponíveis, sem presumir relação indevida entre os casos.
+
+Conclusão:
+A recorrência pode justificar uma análise complementar, mas não é prova isolada de fraude.
+
+CASO 5 — FOTOGRAFIAS INCONSISTENTES
+
+Situação:
+As fotografias apresentadas parecem mostrar danos diferentes daqueles descritos no aviso de sinistro.
+
+Análise recomendada:
+Conferir os arquivos disponíveis, relacionar cada imagem ao dano descrito e solicitar informações complementares quando necessário.
+
+Conclusão:
+A divergência deve ser esclarecida. É necessário verificar se existe uma explicação legítima antes de tomar uma decisão.
+
+PRINCÍPIO GERAL
+
+Toda análise deve distinguir fatos observados, hipóteses e conclusões. A decisão precisa ser fundamentada em evidências verificáveis, considerando explicações alternativas e os procedimentos aplicáveis.

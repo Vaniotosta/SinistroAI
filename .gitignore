@@ -1,0 +1,23 @@
+
+# Ambiente Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Ambientes e configurações locais
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Cache e arquivos temporários
+.cache/
+*.log
+
+# Banco vetorial local
+banco_vetorial/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db

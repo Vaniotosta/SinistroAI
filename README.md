@@ -1,4 +1,5 @@
 # 🛡️ SinistroAI — Assistente Inteligente para Análise de Sinistros
+Link APP: https://sinistroai-5yqt2oc4w7qrpjv9hxpzuk.streamlit.app/
 
 ## 📌 Visão geral
 
